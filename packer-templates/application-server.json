@@ -8,7 +8,6 @@
     },
     "builders": [
       {
-        "noy"
         "type": "virtualbox-iso",
         "boot_command": [
           "<esc><wait>",
